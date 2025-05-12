@@ -1,0 +1,49 @@
+ID,Data,Descrição,Tipo,Categoria,Conta Origem,Conta Destino,Valor
+17a72437-f7bf-4ad3-8175-50d4030f3fb1,2025-04-01 00:00:00,SALDO ANBTERIOR,Entrada,Outros,Sicoob,,119.83
+1612ffd5-bcd0-4f4d-b17a-e071a6f8cba2,2025-04-01 00:00:00,OVOS,Saída,Alimentação,Sicoob,,20.0
+baddb9e1-4992-4c38-b1b6-1e6212445308,2025-04-03 00:00:00,SORVETE,Saída,Alimentação,Sicoob,,4.0
+fb8540ce-e894-4a2a-aef4-a2acc54ab4b0,2025-04-04 00:00:00,CCR PEDAGIO PAI PARA DESCONTAR NO GNV ABASTECIDO VOYAGE,Saída,Transporte,Sicoob,,26.7
+73d2cf75-1919-4b89-8e27-0039c6f03c1c,2025-04-11 00:00:00,SALÁRIO CNET,Entrada,Salário,Sicoob,,3804.86
+90ae433c-01c9-4dfb-ab1d-cc56925c3088,2025-04-23 00:00:00,TRANSFERENCIA ENTRE CONTAS ,Transferência,Transferência,Sicoob,Itaú,2700.0
+beb7d242-5a4a-4c5a-bc61-6daab9658060,2025-04-12 00:00:00,LANCHE,Saída,Alimentação,Sicoob,,68.8
+186179d9-c5b2-4a92-8c4d-6efd29d43c37,2025-04-14 00:00:00,FILTRO DE LINHA - OURO BRANCO  PARA IGREJA E PASTOR,Saída,Outros,Sicoob,,69.16
+25fc3e47-4f25-420d-9e6d-363265b45db9,2025-04-14 00:00:00,DIZIMO E OFERTA,Saída,Outros,Sicoob,,761.0
+93c795fd-b805-47d4-b2ec-5d244d354b95,2025-04-15 00:00:00,TRANSFERENCIA ENTRE CONTAS ,Transferência,Transferência,Sicoob,Itaú,270.0
+0786e91c-b044-45dc-8a63-582e7eb9e1ec,2025-04-22 00:00:00,TRANSFERENCIA ENTRE CONTAS ,Transferência,Transferência,Carteira,Sicoob,300.0
+d2e03fbc-a7bc-4c06-a6c6-a543c7bbc0c4,2025-04-22 00:00:00,CARTÃO SICOOB,Saída,Outros,Cartão Sicoob,,76.0
+6320d76a-8b69-40ba-9d38-714c44d492a9,2025-04-23 00:00:00,PREVIDENCIA,Saída,Investimento,Sicoob,,103.93
+00e177d1-f955-4c83-b322-3717eb28e5ec,2025-04-23 00:00:00,STREEAM  DISNEY REF MARÇO E ABRIL,Saída,Lazer,Sicoob,,28.0
+a07cb068-4a09-48af-8840-6e9dbb27b3b5,,ENTRADA TESTE DE SISTEMAS ,Entrada,Salário,Sicoob,,3804.0
+7db212a4-7adb-48eb-9758-c11c437ee6ad,,TESTE LANÇAMENTO SAÍDA,Saída,Outros,Sicoob,,3.8
+70a7adce-8896-495b-a879-30ce10bef7cc,,TESTE NOVAMENTE,Saída,Outros,Sicoob,,500000.0
+e6de5041-c6c0-4c47-b926-46080e6425d1,,SALARIO TESTE,Entrada,Salário,Sicoob,,5.0
+a3b5c2d0-fdad-4509-aba4-dfb0ad1e9008,,SALARIO TESTE,Entrada,Salário,Itaú,,5.0
+a0d3aec9-8284-4cba-9ef4-fdaaf5eed181,,SALÁRIO TESTE,Entrada,Salário,Sicoob,,5.0
+617e19b7-7460-4a25-bf1d-baf846444a97,,SALÁRIO TESTE,Entrada,Salário,Sicoob,,5000.0
+c300eee3-770f-4b88-9d47-7000ab954ac7,,TESTE ENTRADA ,Entrada,Salário,Sicoob,,5.0
+2dfded1a-a054-410a-9378-6ccb22d16905,,LANÇAMNTO TESTE ,Entrada,Salário,Sicoob,,5.0
+8877c699-6592-44dd-9fb0-8698bce65355,,LANÇAMNTO TESTE ,Entrada,Salário,Sicoob,,5000.0
+4b124441-aaf1-4f69-a041-3276bd4380e3,,LANÇAMNTO TESTE ,Entrada,Salário,Sicoob,,5000.0
+9ff978df-9d97-453d-8f2e-984c65bb4bb9,,LANÇAMNTO TESTE ,Entrada,Salário,Sicoob,,5000.0
+4150149a-a55e-46fe-8134-115b3cdd8e24,,teste,Entrada,Salário,Carteira,,500000.0
+4be142e4-7afb-4595-958c-45e4604a822c,,teste,Entrada,Salário,Carteira,,5.0
+edea57de-1998-42b6-b2ee-bd7ea3e49677,,teste,Entrada,Salário,Carteira,,5.0
+33a76b32-0b1a-449e-8fc0-ed4d0b8eb7c0,,teste,Entrada,Salário,Carteira,,500000.0
+ccebed87-4a68-4903-b520-bca89da093ac,,,Entrada,Salário,Carteira,,0.01
+33e1558a-ee57-4972-a19b-b59633a35277,,,Entrada,Salário,Carteira,,5000.0
+5768fa0e-2b08-49b4-98ae-b75577130372,,,Entrada,Salário,Carteira,,3000.0
+ccef3b71-3a5f-447c-a18a-7abbec5c610e,,,Entrada,Salário,Carteira,,3000.0
+cb4d8f71-6e08-493a-88a0-7823cc03ed85,,,Entrada,Salário,Carteira,,3000.0
+fc5c5c44-5803-4835-a9d4-846b222d5ee4,,,Entrada,Salário,Carteira,,333.0
+97c0735f-4a0c-4318-a87c-d7d406a38516,,teste,Saída,Salário,Carteira,,222.0
+0d064e2c-aaf1-4adc-9759-60b01bc98921,,teste,Receita,teste,,,225.0
+339c17f8-7d93-459e-b010-9e3f797b7d11,,teste,Receita,teste,,,555.0
+fcf09d68-2fbc-4c00-8a3a-9ef3312558c3,,teste,Entrada,Salário,Carteira,,777.0
+6074fccc-ba26-4f8e-9a21-1c8eb9239b3f,,teste,Entrada,Salário,Carteira,,777.0
+8470596a-23fa-48d0-a3f9-c02d1d62bb70,,,Entrada,Salário,Carteira,,111.0
+289513f5-de54-4440-98dc-7f7c30a18d65,,TESTE,Entrada,Salário,Carteira,,555.0
+9cf1feed-9d96-4583-a3e1-6602fa6bd33b,,,Entrada,Salário,Carteira,,3800.0
+edb4642e-c550-4a2d-86c4-c5373be81a63,,salário,Entrada,Salário,Sicoob,,3788.82
+0f1405f7-5b40-433d-8ca4-d2a4e0479eb0,,salário,Entrada,Salário,Sicoob,,3788.82
+ee046650-e87e-4871-8778-b4ac088830ec,2025-04-25,LANCHE,Saída,Alimentação,Sicoob,,28.0
+9450fec1-f647-44ca-be4a-70b311976cb2,,LANCHE,Saída,Alimentação,Sicoob,,42.0
